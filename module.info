@@ -1,0 +1,4 @@
+name=Forwarders
+desc=Exim Email Forwarders
+os_support=debian-linux
+category=servers
